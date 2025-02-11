@@ -88,7 +88,7 @@ A table that categorizes loans based on status, showing:
 - Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
-- Dashboard interaction <a href="https://github.com/MashettyKeerthi/Bank-Loan-Analysis/blob/main/Bank_Loan_Analysis.pdf">/a<View Dashboard>
+- Dashboard interaction 
 
 ## Workflow & Data Processing
 
@@ -108,7 +108,7 @@ A table that categorizes loans based on status, showing:
 - **KPIs:** Create and display key metrics using Card visuals.
 - **Charts:** Design interactive charts for trend and comparative analysis.
 - **Formatting Visuals:** Ensure visuals are consistent and easy to interpret.
-- **Navigation:** Add buttons or bookmarks for seamless navigation within the dashboard.
+- **Navigation:** Add buttons or bookmarks for seamless navigation within the dashboard. <a href="https://github.com/MashettyKeerthi/Bank-Loan-Analysis/blob/main/Bank_Loan_Analysis.pdf">View Dashboard</a>
 
 This dashboard is designed to help financial analysts and loan officers make data-driven decisions by providing clear and insightful loan performance tracking. 
  
