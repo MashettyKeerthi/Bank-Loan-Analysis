@@ -88,7 +88,7 @@ A table that categorizes loans based on status, showing:
 - Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
-- Dashboard interaction
+- Dashboard interaction <a href="https://github.com/MashettyKeerthi/Bank-Loan-Analysis/blob/main/Bank_Loan_Analysis.pdf">/a<View Dashboard>
 
 ## Workflow & Data Processing
 
