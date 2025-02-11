@@ -7,11 +7,11 @@ This project aims to develop an interactive analytics dashboard for monitoring l
 
 **1.	Total Loan Applications**
    
-•	Calculate the total number of loan applications received within a specified period.
+   •	Calculate the total number of loan applications received within a specified period.
 
-•	Track Month-to-Date (MTD) Loan Applications to measure recent application trends.
+   •	Track Month-to-Date (MTD) Loan Applications to measure recent application trends.
 
-•	Monitor Month-over-Month (MoM) changes to analyze loan application growth or decline.
+   •	Monitor Month-over-Month (MoM) changes to analyze loan application growth or decline.
 
 **2.	Total Funded Amount**
    
