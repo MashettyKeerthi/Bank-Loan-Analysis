@@ -3,10 +3,17 @@
 ## **Objective**
 This project aims to develop an interactive analytics dashboard for monitoring loan performance and extracting valuable insights. The dashboard will feature Key Performance Indicators (KPIs), dynamic grid views, and data visualizations to help financial analysts and loan officers make data-driven decisions.
 
-## **Summary**
+## Technologies used
+<img src="https://github.com/user-attachments/assets/afac138f-5d94-436d-afb2-1761bcfc1a23" width="100" height="50" />
+<img src="https://github.com/user-attachments/assets/04726459-d460-4321-af5d-cb1c47867a66" width="100" height="50" />
+
+## Dataset Used
+<a href="https://github.com/MashettyKeerthi/Bank-Loan-Analysis/blob/main/financial_loan.csv"> Bank Loan dataset </a>
+
+## Summary
 The dashboard uses interactive visualizations and key financial metrics to monitor loan trends, assess risks, and categorize loans as Good Loans or Bad Loans. It processes loan data using Power Query and DAX functions, ensuring accurate reporting with Month-to-Date (MTD), Year-to-Date (YTD), and Month-over-Month (MoM) calculations.
 
-## **Key Features**
+## Key Features
 
  **A. Loan Performance Metrics(KPIs)**
 
